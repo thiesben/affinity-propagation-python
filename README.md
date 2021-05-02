@@ -30,5 +30,5 @@ exemplars, labels, centers = ap.affinity_prop(data, preference="min")
 ap.cplot(data,labels)
 
 ```
-## What is this notebooks?
+## What is this notebook?
 This package was part of a project of Cliburn Chan's STA663 Statistical Computation class at [Duke University](https://www.duke.edu). The notebook `Master.ipynb` contains the original implementations of the algorithm before and after changes to increase performance were made. It also covers performance testing and applications on simulated datasets.
