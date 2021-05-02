@@ -1,0 +1,4 @@
+ - sparse matrix implementation
+ - cosine + jaccard similarity diffs?
+
+http://genes.toronto.edu/affinitypropagation/faq.html#technical
